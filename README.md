@@ -1,2 +1,2 @@
 # demo
-Calculate with js
+React js
